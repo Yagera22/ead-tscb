@@ -1,0 +1,10 @@
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\bin\Debug\CustomerDetailsTDK.exe.config
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\bin\Debug\CustomerDetailsTDK.exe
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\bin\Debug\CustomerDetailsTDK.pdb
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.csprojResolveAssemblyReference.cache
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.formMovie.resources
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.Properties.Resources.resources
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.csproj.GenerateResource.Cache
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.csproj.CoreCompileInputs.cache
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.exe
+C:\Users\TDK\source\repos\CustomerDetailsTDK\CustomerDetailsTDK\obj\Debug\CustomerDetailsTDK.pdb
